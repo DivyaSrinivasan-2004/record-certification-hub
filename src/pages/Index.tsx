@@ -126,7 +126,7 @@ const Index = () => {
                 <Button 
                   size="lg" 
                   variant="outline" 
-                  className="text-base px-8 border-white/30 text-white hover:bg-white/10 hover:text-white"
+                  className="text-base px-8 border-white/30 text-black hover:bg-white/10 hover:text-white"
                 >
                   View Records
                 </Button>
